@@ -1,5 +1,5 @@
 <div align=center>
-<img src="./res/icon-1024.png" width="369" height="369"/>
+<img src="./res/icon-1024.png" width="396" height="396"/>
 </br>
 <h1>VIVAIA POS (For Window)</h1>
 </div>
